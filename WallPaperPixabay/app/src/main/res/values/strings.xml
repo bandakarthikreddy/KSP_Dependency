@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WallPaper Pixabay</string>
+    <string name="wallpaper_image">Wallpaper Image\n</string>
+    <string name="user">User</string>
+    <string name="views">Views</string>
+    <string name="downloads">Downloads</string>
+    <string name="likes">Likes</string>
+    <string name="todo">TODO</string>
+</resources>
