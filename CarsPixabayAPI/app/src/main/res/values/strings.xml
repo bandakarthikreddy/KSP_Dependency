@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cars Pixabay</string>
+    <string name="car_image">Car Image</string>
+    <string name="cars">CARS</string>
+    <string name="user">User:</string>
+    <string name="views">Views</string>
+    <string name="downloads">Downloads</string>
+    <string name="likes">Likes</string>
+</resources>
