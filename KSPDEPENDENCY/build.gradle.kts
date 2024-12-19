@@ -49,4 +49,16 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
     ksp("androidx.room:room-compiler:2.5.0")
+
+// View Model Dependency
+implementation(libs.androidx.lifecycle.viewmodel.ktx)
+
+// Collection Dependency
+implementation(libs.androidx.collection.ktx)
+
+// Room Dependency
+  implementation(libs.androidx.room.runtime)
+    ksp(libs.androidx.room.compiler)
+    annotationProcessor(libs.androidx.room.compiler)
+    implementation(libs.androidx.room.ktx)
 }
